@@ -1,6 +1,6 @@
 # SAS Viya Programming
 * Instructor :  <b>Iwan Prasetiawan S.KOM., M.M..</b>
-* School : <b>Multimedia Nusantara University</b>
+* Place : <b>Multimedia Nusantara University</b>
 * Course : <b>Big Data Analytics II</b>
 
 ## Objective
