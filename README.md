@@ -3,7 +3,7 @@
 * School : <b>Multimedia Nusantara University</b>
 * Course : <b>Big Data Analytics II</b>
 
-## Objectives
+## Objective
 * <b>Introduction</b>
    <p align="justify">Students understand the concept and implementation of the SAS® Viya® CAS analytics platform (Cloud Analytics Services) with the power of an in-memory engine and parallel processing capabilities to increase the speed of data management and analysis through one of the web-enabled application features of SAS® Studio<p>
 
