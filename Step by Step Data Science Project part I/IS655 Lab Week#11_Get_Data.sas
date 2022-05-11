@@ -1,0 +1,28 @@
+LIBNAME MYDATA BASE "/home/u61270967/my_shared_file_links/u59229493/Week#10";
+
+FILENAME REFFILE '/home/u61270967/my_shared_file_links/u59229493/Week#10/listings_clean.csv';
+
+PROC IMPORT DATAFILE=REFFILE
+ DBMS=CSV
+ OUT= MYDATA.Listings;
+ GETNAMES=YES;
+ 
+RUN;
+
+PROC CONTENTS DATA=MYDATA.Listings; RUN;
+
+DATA WORK.TEST;
+ SET MYDATA.Listings;
+RUN;
+
+DATA TEST;
+ SET MYDATA.Listings;
+RUN;
+
+FILENAME REFFILE2 '/home/u61270802/my_shared_file_links/u59229493/Week#10/calendar.csv';
+
+PROC IMPORT DATAFILE=REFFILE2
+ DBMS=CSV
+ OUT= MYDATA.Calendar;
+ GETNAMES=YES;
+RUN;
