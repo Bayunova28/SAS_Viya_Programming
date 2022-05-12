@@ -4,13 +4,13 @@
 * Course : <b>Big Data Analytics II</b>
 
 ## Objective
-* <b>Introduction</b>
+* <b>[Introduction](https://drive.google.com/file/d/1mI6krkk2Iqren8IbpqESQxOipBivBzA7/view?usp=sharing)</b>
    <p align="justify">Students understand the concept and implementation of the SAS® Viya® CAS analytics platform (Cloud Analytics Services) with the power of an in-memory engine and parallel processing capabilities to increase the speed of data management and analysis through one of the web-enabled application features of SAS® Studio<p>
 
-* <b>Step by Step Data Science Project part I</b>
+* <b>[Step by Step Data Science Project part I](https://drive.google.com/file/d/1ur7x_UnGitREee6QNfyu56uG5lZxXjvH/view?usp=sharing)</b>
     <p align="justify">Students understand and are able to implement science projects step by step with an outline of the workflow starting from provide the data to identifying business opportunities, creating Train and Test data sets and analyzing target variables and predictor variables in order to prepare data models.<p>
 
-* <b>Step by Step Data Science Project part II</b>
+* <b>[Step by Step Data Science Project part II](https://drive.google.com/file/d/1ZBlqZ1S98lQAY2U66l0tLwnVh9BlH-iR/view?usp=sharing)</b>
      <p align="justify">Students understand and are able to implement a science project step by step with a workflow outline that goes from customizing a TEST Data Set, building a Predictive Model with multiple modeling algorithms and underlying methodologies with common reasons for choosing one analytical methodology or another.<p>
        
 ## Documentation
